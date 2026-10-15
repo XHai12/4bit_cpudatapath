@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Name: Bui Xuan Hai, Roll Number: HE200952
+--- Part 1: Addition ---
+--- Part 2: Subtraction ---
+PASS
+$finish called at time : 40 ns : File "D:/pro/4bit_adder_subtractor_with_overflow/4bit_adder_subtractor_with_overflow.srcs/sim_1/new/tb_add_sub_4bit.v" Line 46
